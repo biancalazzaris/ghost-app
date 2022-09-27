@@ -26,4 +26,4 @@ O WebApp se trata de uma aplicação de Chat, da qual o usuário poderá dispara
 
 ---
 
-![image](https://user-images.githubusercontent.com/61711182/192402916-38c01e89-ea6c-43f6-9f5a-37df353fd41c.png)
+![image](https://user-images.githubusercontent.com/61711182/192404651-85919ffd-549b-4305-9cff-58e2528ed354.png)
